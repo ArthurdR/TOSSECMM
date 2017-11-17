@@ -4,7 +4,7 @@
 
 OSeMOSYS is an open source energy system optimization model developed by KTH-Desa. OSeMOSYS is designed to find the most cost effective way to meet an energy demand through a system submitted to constraints. All informations about the model are available at: http://www.osemosys.org/ 
 
-In this project, OSeMOSYS's code has been modified to design of a spacial optimization model for urban energy planning. The model has been tested on the Metropolitan Comunity of Montreal. This projects has been led by a team of researchers from UQAM (Montreal) and GERAD (Montreal) and has been funded by the CRSNG.
+In this project, OSeMOSYS's code has been modified in order to design of a spacial optimization model for urban energy planning. The model has been tested on the Metropolitan Comunity of Montreal. This projects has been led by a team of researchers from UQAM (Montreal) and GERAD (Montreal) and has been funded by the CRSNG.
 
 ## Documents
 
