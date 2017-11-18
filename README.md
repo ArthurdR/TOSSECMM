@@ -14,6 +14,8 @@ MUESMO_V1.txt: This is the model's file. he modified version of OSeMOSYS.
 
 UESMO_CMM.txt: This is the input file. It's a database containing all information needed from the model. 
 
+model result/model_result.py: Piece of code in python to format the model's results. 
+model result/model_result.ipynb: Jupyter version of the previous file. 
+
 model_format.py: (work in progress) piece of code in python to format a GIS database into a txt file readable by the model. 
 
-model_result.py: (work in progress) Piece of code in python to format the model's results. 
