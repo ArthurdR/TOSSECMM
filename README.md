@@ -14,6 +14,8 @@ MUESMO_V1.txt: This is the model's file. It contains all the modified version of
 
 UESMO_CMM.txt: This is the input file. It's a database containing all information needed for the model. 
 
+model outputs: folder containing all output files of the model. 
+
 model result/model_result.py: Piece of code in python to format the results of the model.
 
 model result/model_result.ipynb: Jupyter version of the previous file. 
